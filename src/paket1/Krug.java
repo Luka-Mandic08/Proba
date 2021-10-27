@@ -25,4 +25,7 @@ public class Krug {
 		return this.r*this.r*Math.PI;
 	}
 	// ajdjiasjdasjdoajs
+
+	//eeeeeee
+	
 }
