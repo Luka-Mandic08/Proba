@@ -24,4 +24,5 @@ public class Krug {
 	public double getP() {
 		return this.r*this.r*Math.PI;
 	}
+	// ajdjiasjdasjdoajs
 }
