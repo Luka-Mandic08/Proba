@@ -9,6 +9,8 @@ public class Test {
 		p1.getP();
 		
 		System.out.println(k1.getP());
+		
+		System.out.println("De si Luleee");
 	}
 
 }
